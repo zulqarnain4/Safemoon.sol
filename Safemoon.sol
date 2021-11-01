@@ -6,11 +6,12 @@
  *Submitted for verification at BscScan.com on 2021-03-01
 */
 
-/**
+/
+                    **OctoCat**
   
-   #BEE
+   #1HashtagONE
    
-   #LIQ+#RFI+#SHIB+#DOGE = #BEE
+   #AllHASHTAGS = #EthXPlus
 
    #SAFEMOON features:
    3% fee auto add to the liquidity pool to locked forever when selling
